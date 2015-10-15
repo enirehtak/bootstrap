@@ -1,0 +1,51 @@
+/*las siguientes clases se usan en la mayoria de los encabezados y los divs*/
+.flotar{
+	float:right;
+	margin-left:3%;
+}
+.barra{
+	background-color:#C0C0C0;
+	height:30%; 
+}
+.flota{
+	float:left;
+	margin-left:3%;
+	margin-top:10%;
+}
+.flo{
+	float:left;
+	margin-left:3%;
+	margin-top:10%;
+	background-color:white;
+	padding:.5%; 
+}
+.historia{
+	background-color:#C0C0C0;
+	width:33%;
+}
+.etiqueta{
+	float:right;
+}
+.webz{
+	background-color:#000000;
+	width:25%;
+	text-align:center;
+	color:white;
+}
+.foto{
+	background-color:#C0C0C0;
+	padding:13%;
+	text-align:center; 
+}
+.enero{
+	background-color:#787878;
+	width:20%;
+	text-align:center;
+}
+.febrero{
+	margin-left:25%;	
+}
+.cuadr{
+	background-color:#C0C0C0; 
+}
+
